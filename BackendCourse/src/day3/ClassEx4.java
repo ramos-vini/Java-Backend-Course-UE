@@ -1,6 +1,6 @@
 package day3;
 
-public class Ex4 {
+public class ClassEx4 {
 
 	public static void main(String[] args) {
 		// print numbers from 20 to 10

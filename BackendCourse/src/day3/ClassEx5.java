@@ -1,6 +1,6 @@
 package day3;
 
-public class Ex5 {
+public class ClassEx5 {
 
 	public static void main(String[] args) {
 		// print even numbers from 0 to 100:

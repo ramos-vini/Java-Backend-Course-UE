@@ -1,6 +1,6 @@
 package day3;
 
-public class Ex1 {
+public class ClassEx1 {
 
 	public static void main(String[] args) {
 		// print absolute value of x

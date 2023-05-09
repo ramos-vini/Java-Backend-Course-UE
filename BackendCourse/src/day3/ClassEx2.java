@@ -1,6 +1,6 @@
 package day3;
 
-public class Ex2 {
+public class ClassEx2 {
 
 	public static void main(String[] args) {
 		// print if x is Positive, Negative or Zero

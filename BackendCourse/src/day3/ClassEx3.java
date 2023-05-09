@@ -1,6 +1,6 @@
 package day3;
 
-public class Ex3 {
+public class ClassEx3 {
 
 	public static void main(String[] args) {
 		// Loops:
